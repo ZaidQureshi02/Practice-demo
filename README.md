@@ -1,2 +1,2 @@
 # Practice-demo
-Author - Zaid Qureshi
+Author - Zaid (practice)
